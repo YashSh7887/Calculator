@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#container{
+    border:5px solid black;
+    display: flex;
+    flex-direction: column;
+    
+}
+#buttons{
+    display:flex;
+    flex-direction:column;
+}
